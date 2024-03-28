@@ -1,0 +1,8 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+.logo{
+    position: relative;
+    height: 40px;
+}
